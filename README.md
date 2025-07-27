@@ -26,11 +26,9 @@ Showcase your favorite romantic images with smooth sliding animations and a glow
 
 ## 👀 Preview
 
-*Coming soon! Add your screenshots or GIFs here*
+Here is a preview of the flip book:
 
-<!-- Example:  
-![Preview Image](images/preview1.png)  
--->
+![Preview Image 1](images/preview1.png)
 
 ---
 
